@@ -1,4 +1,4 @@
 # pankajmo-demo
 This is my first Git Repository.
 
-Author: Pankaj Mohale
+Author: Pankaj Mohale (Learning Mode)
